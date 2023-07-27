@@ -1,0 +1,38 @@
+.main-container {
+  padding: 1em;
+  width: 70%;
+  margin: 1em auto;
+  border: solid 1px;
+  border-radius: 5px;
+  background-color: #134e4a;
+}
+
+.lower-section {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title-container {
+  text-align: center;
+  border: solid 1px;
+  border-radius: 5px;
+  color: white;
+  border-color: none;
+  background-color: #020617;
+  margin-bottom: 1em;
+}
+
+.taskContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  border-radius: 5px;
+  border: solid 1px;
+  margin-bottom: 0.5em;
+}
+
+.buttons-container {
+  display: flex;
+  column-gap: 1em;
+  margin-top: 1em;
+}
